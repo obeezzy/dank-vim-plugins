@@ -1,0 +1,30 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/one"]
+	path = colors/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "syntax/opt/elixir"]
+	path = syntax/opt/elixir
+	url = https://github.com/elixir-lang/vim-elixir
+[submodule "plugins/start/vim-devicons"]
+	path = plugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "/home/obeezzy/.vim/pack/plugins/start/vim-airline"]
+	path = /home/obeezzy/.vim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "plugins/opt/virtualenv"]
+	path = plugins/opt/virtualenv
+	url = https://github.com/jmcantrell/vim-virtualenv.git
+[submodule "plugins/start/qt-support"]
+	path = plugins/start/qt-support
+	url = https://github.com/fedorenchik/qt-support.vim.git
+[submodule "/home/obeezzy/.vim/pack/plugins/start/ale"]
+	path = /home/obeezzy/.vim/pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "plugins/start/clang_complete"]
+	path = plugins/start/clang_complete
+	url = https://github.com/xavierd/clang_complete.git
